@@ -3,6 +3,7 @@ Problem and Motivation
 - Companies sometimes misclassify concerning disclosure as label 8 (miscellaneous) while other more appropriate label exists
 - Due to quantity of report, using natural language processing is practical alternative to manual review
 
+Dataset
 - 3000 entries
 - 16 labels
 - Training Set : reports that aren’t labeled as miscellaneous
